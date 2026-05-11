@@ -1,0 +1,58 @@
+tests/unit/MultiproviderTest.php
+  ai_agent 14,50,57,64,70,76,82,88,98,110,124,138,152,169,181,196,209,219
+tests/unit/ComparisonStrategyTest.php
+  ai_agent 12,53,73,92,118,139,158,176
+tests/unit/ProviderContextTest.php
+  h_c5924376adbc05 10,15,29,36,48,55
+  s_b97edae50a04f6::t_ec849d4555d7e0 11
+src/implementation/multiprovider/MultiProvider.php
+  s_b97edae50a04f6::t_ec849d4555d7e0 8
+  s_b97edae50a04f6::t_3b9400e4c03bf3 240,273
+  h_c5924376adbc05 11-12,21,37,39,50,151,154,156-157,159,163,181,186,189,194,198,211,216,219,224,234,236-237,239,243-245,312-313,315-317,320-330,341,344-349,351-352,360-361,365,367-368,370
+  s_b97edae50a04f6::t_32e6481d0f9733 242
+  s_b97edae50a04f6::t_3986afebd795a3 241,246-247,250-252,255-257,260-262,265-267,270-272
+src/implementation/multiprovider/strategy/FirstMatchStrategy.php
+  s_b97edae50a04f6::t_104453df7bd2dc 31,36,45
+  s_b97edae50a04f6::t_2c73acd6d93421 81,87
+  h_c5924376adbc05 51,132
+src/implementation/multiprovider/strategy/ProviderContext.php
+  h_c5924376adbc05 11,13,16
+src/implementation/multiprovider/strategy/ComparisonStrategy.php
+  h_c5924376adbc05 53,58,67,73,100,108
+  s_b97edae50a04f6::t_2c73acd6d93421 85,91
+src/implementation/multiprovider/strategy/StrategyContext.php
+  h_c5924376adbc05 10,12
+src/implementation/multiprovider/strategy/BaseEvaluationStrategy.php
+  s_b97edae50a04f6::t_c87bd8fcc8c39a 53,59
+  h_c5924376adbc05 26,31,39,45,68,75
+  s_b97edae50a04f6::t_ec849d4555d7e0 10,88,93,97
+  s_b97edae50a04f6::t_7b3123597575a6 81-87,89-92,94-96,98-107
+tests/unit/MultiProviderStrategyTest.php
+  ai_agent 15-16,29,44,67,69,75,77,86,88,103,105,120,122,131,133,142,144
+tests/unit/StrategyContextTest.php
+  ai_agent 8,11,15,24,31,38,45
+src/implementation/multiprovider/strategy/FirstSuccessfulStrategy.php
+  s_b97edae50a04f6::t_2c73acd6d93421 61,67
+  h_c5924376adbc05 29,34,43,49,82
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "dd4f762dd1aa07e4f0cac5f8132edb74e725daa6",
+  "prompts": {},
+  "humans": {
+    "h_c5924376adbc05": {
+      "author": "tmakinde <makindet74@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_b97edae50a04f6": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "76b39427-3faf-4897-8314-e93cc4c8d14b",
+        "model": "unknown"
+      },
+      "human_author": "tmakinde <makindet74@gmail.com>"
+    }
+  }
+}
