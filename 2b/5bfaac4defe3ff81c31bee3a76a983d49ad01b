@@ -1,0 +1,14 @@
+CODEOWNERS
+  h_c5924376adbc05 10-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "2b5bfaac4defe3ff81c31bee3a76a983d49ad01b",
+  "prompts": {},
+  "humans": {
+    "h_c5924376adbc05": {
+      "author": "tmakinde <makindet74@gmail.com>"
+    }
+  }
+}
