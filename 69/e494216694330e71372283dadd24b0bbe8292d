@@ -1,0 +1,26 @@
+tests/unit/MultiproviderTest.php
+  s_b97edae50a04f6::t_13281025bab54a 67-79
+src/implementation/multiprovider/MultiProvider.php
+  h_c5924376adbc05 320,326-327,330,368,370
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "69e494216694330e71372283dadd24b0bbe8292d",
+  "prompts": {},
+  "humans": {
+    "h_c5924376adbc05": {
+      "author": "tmakinde <makindet74@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_b97edae50a04f6": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "76b39427-3faf-4897-8314-e93cc4c8d14b",
+        "model": "unknown"
+      },
+      "human_author": "tmakinde <makindet74@gmail.com>"
+    }
+  }
+}
