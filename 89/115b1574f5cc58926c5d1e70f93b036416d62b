@@ -1,0 +1,28 @@
+tests/unit/StrategyContextTest.php
+  ai_agent 8,11,15,24,31,38,45
+tests/unit/ProviderContextTest.php
+  s_b97edae50a04f6::t_ec849d4555d7e0 11
+  h_c5924376adbc05 10,15,29,36,48,55
+tests/unit/MultiproviderTest.php
+  ai_agent 14,50,57,64,70,76,82,88,98,110,124,138,152,169,181,196,209,219
+tests/unit/MultiProviderStrategyTest.php
+  ai_agent 15-16,29,44,67,69,75,77,86,88,103,105,120,122,131,133,142,144
+tests/unit/ComparisonStrategyTest.php
+  ai_agent 12,53,73,92,118,139,158,176
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "89115b1574f5cc58926c5d1e70f93b036416d62b",
+  "prompts": {},
+  "sessions": {
+    "s_b97edae50a04f6": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "76b39427-3faf-4897-8314-e93cc4c8d14b",
+        "model": "unknown"
+      },
+      "human_author": "tmakinde <makindet74@gmail.com>"
+    }
+  }
+}
