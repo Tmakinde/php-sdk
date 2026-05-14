@@ -1,0 +1,25 @@
+README.md
+  h_c5924376adbc05 168-361
+  s_b97edae50a04f6::t_3b72b9f0725ad9 144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "c4be76024c94cd91d60964eedf8d5c1a3b7c32a9",
+  "prompts": {},
+  "humans": {
+    "h_c5924376adbc05": {
+      "author": "tmakinde <makindet74@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_b97edae50a04f6": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "76b39427-3faf-4897-8314-e93cc4c8d14b",
+        "model": "unknown"
+      },
+      "human_author": "tmakinde <makindet74@gmail.com>"
+    }
+  }
+}
