@@ -1,0 +1,67 @@
+src/interfaces/provider/RunMode.php
+  s_b97edae50a04f6::t_33970e5558dea0 13,20
+src/implementation/multiprovider/MultiProvider.php
+  s_b97edae50a04f6::t_f842380a786b24 242,295,316,318,331,337,340
+  s_b97edae50a04f6::t_fc221cb6b26844 215-216,220
+  s_b97edae50a04f6::t_6c1a729eed6604 164-165
+  s_b97edae50a04f6::t_75b9fb5eca062a 7
+  s_b97edae50a04f6::t_8de1198a6a8a9a 243,332
+  h_c5924376adbc05 64,149-155,157,297-298,302,304,308,314-315,317,319-330,334-336,338,378,391-394,398,404-405,410,414-416,418
+  s_b97edae50a04f6::t_9e67d3bdeef815 54
+  s_b97edae50a04f6::t_892727d2734970 244
+  s_b97edae50a04f6::t_f1281e0ef8cc87 341
+  s_b97edae50a04f6::t_3730c5d622c161 294,296,300,333,339
+tests/unit/MultiproviderTest.php
+  h_c5924376adbc05 51,112
+tests/unit/ComparisonStrategyTest.php
+  s_b97edae50a04f6::t_d52d5ee34cc23a 116,118,122,134-136,154
+  s_b97edae50a04f6::t_9d70b14add31ec 8,49,69,84,97,119,139,141,159,161-168,180-203
+  s_b97edae50a04f6::t_7f9acaf127e546 156
+src/implementation/multiprovider/strategy/ComparisonStrategy.php
+  s_b97edae50a04f6::t_ef37664739c689 131
+  s_b97edae50a04f6::t_43bc12f0ec8185 7,10,17,19-23,25-29,38,42,47,49,58,63,78,88,97-98,104-105,108,119-122,127,130,140-142,165
+  s_b97edae50a04f6::t_1b70bb77766792 35
+  s_b97edae50a04f6::t_42342b4197e6a8 89-91
+  s_b97edae50a04f6::t_14524ebee9339e 72-73
+  h_c5924376adbc05 109-111,113-117,124-126,129,132-136,145-147,150-151,160-164,167,169-170
+  s_b97edae50a04f6::t_1997ad9d14845b 152-155
+src/implementation/multiprovider/ProviderResolutionResult.php
+  s_b97edae50a04f6::t_f842380a786b24 52
+  h_c5924376adbc05 53-54
+CODEOWNERS
+  h_c5924376adbc05 11
+README.md
+  s_b97edae50a04f6::t_02af7b8b19f070 238,240
+  s_b97edae50a04f6::t_6fa9e42fb3edef 299,304,308-309,321,323,326-331,333
+  s_b97edae50a04f6::t_5524142e13740c 213-216
+  s_b97edae50a04f6::t_bb1040951d31c9 366
+  s_b97edae50a04f6::t_5d38cdddf280c1 499-519
+  s_b97edae50a04f6::t_42342b4197e6a8 322,324-325,332,363-365
+  s_b97edae50a04f6::t_e43a214c681e29 340-341,345-346
+  h_c5924376adbc05 170,172,174-176,180,183,187-188,193-195,198-208,210-211,236,292,294,300,302-303,305-307,312-318
+  s_b97edae50a04f6::t_4f25ce458b2603 230-232
+  s_b97edae50a04f6::t_cb06fac02c94f0 350-362,367,373,379
+  s_b97edae50a04f6::t_e0e36509f78e2d 368-370,375-378,380-381,384
+  s_b97edae50a04f6::t_0c612c5c61af03 423-498
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "8ac9e8610b8838e32cf92f6fe2ad3a3feed5d0c1",
+  "prompts": {},
+  "humans": {
+    "h_c5924376adbc05": {
+      "author": "tmakinde <makindet74@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_b97edae50a04f6": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "76b39427-3faf-4897-8314-e93cc4c8d14b",
+        "model": "unknown"
+      },
+      "human_author": "tmakinde <makindet74@gmail.com>"
+    }
+  }
+}
