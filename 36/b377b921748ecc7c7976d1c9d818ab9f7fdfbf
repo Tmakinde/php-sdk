@@ -1,0 +1,14 @@
+src/implementation/multiprovider/strategy/ComparisonStrategy.php
+  h_c5924376adbc05 111,133,137
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "36b377b921748ecc7c7976d1c9d818ab9f7fdfbf",
+  "prompts": {},
+  "humans": {
+    "h_c5924376adbc05": {
+      "author": "tmakinde <makindet74@gmail.com>"
+    }
+  }
+}
