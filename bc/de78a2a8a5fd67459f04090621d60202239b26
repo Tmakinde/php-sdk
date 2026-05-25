@@ -1,0 +1,27 @@
+README.md
+  h_c5924376adbc05 215,292,437,491
+src/implementation/multiprovider/strategy/BaseEvaluationStrategy.php
+  s_b97edae50a04f6::t_196f9dae0d8e34 70
+  s_b97edae50a04f6::t_c2c51496f1e7b1 71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "bcde78a2a8a5fd67459f04090621d60202239b26",
+  "prompts": {},
+  "humans": {
+    "h_c5924376adbc05": {
+      "author": "tmakinde <makindet74@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_b97edae50a04f6": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "76b39427-3faf-4897-8314-e93cc4c8d14b",
+        "model": "unknown"
+      },
+      "human_author": "tmakinde <makindet74@gmail.com>"
+    }
+  }
+}
